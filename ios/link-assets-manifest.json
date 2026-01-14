@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "VibeSpiritTrackerSrc/VibeSpiritTrackerAssets/VibeSpiritTrackerFonts/Montserrat-Regular.ttf",
+      "sha1": "1c8119b38eef1914a4fbd9f6cfdedf198445ab97"
+    },
+    {
+      "path": "VibeSpiritTrackerSrc/VibeSpiritTrackerAssets/VibeSpiritTrackerFonts/SFProText-Bold.ttf",
+      "sha1": "632e6cea171b276e5dd1f13b152c702fbf562cee"
+    },
+    {
+      "path": "VibeSpiritTrackerSrc/VibeSpiritTrackerAssets/VibeSpiritTrackerFonts/SFProText-Heavy.ttf",
+      "sha1": "bfc75c545dbe2a8c7c3d6d6223e42aaa5ccb9432"
+    },
+    {
+      "path": "VibeSpiritTrackerSrc/VibeSpiritTrackerAssets/VibeSpiritTrackerFonts/SFProText-Medium.ttf",
+      "sha1": "3b8df618cd23e83843b16a8a32de1ddc9de44df4"
+    },
+    {
+      "path": "VibeSpiritTrackerSrc/VibeSpiritTrackerAssets/VibeSpiritTrackerFonts/SFProText-Regular.ttf",
+      "sha1": "b4893462f2289df6978f9462a63db9e64bcc9342"
+    },
+    {
+      "path": "VibeSpiritTrackerSrc/VibeSpiritTrackerAssets/VibeSpiritTrackerFonts/SFProText-Semibold.ttf",
+      "sha1": "9560ae412d73c7c9af72333db50464b4e597b0f9"
+    }
+  ]
+}
