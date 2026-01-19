@@ -421,6 +421,8 @@ const ProductScreen = ({ navigation, route }) => {
         //console.log('czcvzvdvdszvdxvdxzvxdvxdvxvsdv');
       });
       return false;
+    } else if (url.startsWith('binancecoin:') || url.startsWith('tron:')) {
+      return;
     } else {
       const scheme = url.split(':')[0];
       if (customSchemes.includes(scheme)) {
